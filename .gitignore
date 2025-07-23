@@ -184,3 +184,5 @@ docs/docs/templates
 
 prof
 virtualenv/
+.pdm-python
+pdm.lock
